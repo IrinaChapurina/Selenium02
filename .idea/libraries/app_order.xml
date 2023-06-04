@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="app-order">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/artifacts/app-order.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
